@@ -12,7 +12,7 @@ export const Header = () => {
 <ItemNavbar route='/' content='Inicio' />        
         <ItemNavbar route='/aboutme' content='Acerca de Mi' />
         <ItemNavbar route='/portfolio' content='Mi Portafolio' />
-        <ItemNavbar route='contactme' content='Contáctame' />
+        <ItemNavbar route='Calculadora' content='Calculadora' />
         <ItemNavbar route='*' content='fakes Routes' />
 
 <Navbar/>
